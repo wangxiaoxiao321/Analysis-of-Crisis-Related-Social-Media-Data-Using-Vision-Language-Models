@@ -147,20 +147,29 @@ class AdvancedBLIPXLM(nn.Module):
 - Overall F1-score on non-English data: 74.6%
 - Spanish: 78.2% F1, Indonesian: 71.5% F1, French: 80.3% F1
 
-## Visualizations
 
-### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+## Visualizations  
 
-### ROC Curve
-![ROC Curve](roc_curve.png)
+### Confusion Matrix  
+![Confusion Matrix](docs/confusion_matrix.png)  
 
-### Precision-Recall Curve
-![Precision-Recall Curve](precision_recall_curve.png)
+### ROC Curve  
+![ROC Curve](docs/roc_curve.png)  
+
+### Precision-Recall Curve  
+![Precision-Recall Curve](docs/precision_recall.png)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Google Colab Online Demo 
+ If you do not have a local GPU, you can run everything on Google Colab: 
+ https://drive.google.com/drive/folders/1YhH-KXNFYWVBhb-7KrsYyb7tHO8kIeEO?usp=drive_link 
+ The above is a shared project I created on Colab, including test videos, test code, original models, and saved effects videos after testing. 
+ 
+ 1. Click the “Open in Colab” button below to open `demo_colab.ipynb` in Colab: 
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Smart-Surveillance-System/blob/main/notebooks/demo_colab.ipynb)
 
 ## Citation
 
