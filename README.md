@@ -1,6 +1,7 @@
-# Analysis-of-Crisis-Related-Social-Media-Data-Using-Vision-Language-Models
+# Analysis of Crisis Social Media Data with Vision-Language Models: A Multimodal DL Approach
 
-# CrisisMMD: Multimodal Crisis Social Media Analysis with Vision-Language Models
+## INTRODUCTION My Project
+
 ![Project Logo or Demo Screenshot](2.png)
 ![Project Logo or Demo Screenshot](1.png)
 
