@@ -148,18 +148,16 @@ class AdvancedBLIPXLM(nn.Module):
 - Spanish: 78.2% F1, Indonesian: 71.5% F1, French: 80.3% F1
 
 
-## Visualizations  
+### Visualizations  
 
-### Confusion Matrix  
-![Confusion Matrix](docs/confusion_matrix.png)  
+#### Confusion Matrix  
+![Confusion Matrix](crisis-mm-analysis/docs/Confusion%20Matrix.png)  
 
-### ROC Curve  
+#### ROC Curve  
+![ROC Curve](crisis-mm-analysis/docs/ROC%20Curve.png)  
 
-![ROC Curve](docs/roc_curve.png)  
-
-### Precision-Recall Curve
-
-![Precision-Recall Curve](docs/precision_recall.png)
+#### Precision-Recall Curve  
+![Precision-Recall Curve](crisis-mm-analysis/docs/Precision-Recall%20Curve.png)  
 
 ## License
 
