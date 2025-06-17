@@ -1,6 +1,8 @@
 # Analysis-of-Crisis-Related-Social-Media-Data-Using-Vision-Language-Models
 
 # CrisisMMD: Multimodal Crisis Social Media Analysis with Vision-Language Models
+![Project Logo or Demo Screenshot](2.png)
+![Project Logo or Demo Screenshot](1.png)
 
 A deep learning project for analyzing crisis-related social media posts using multimodal vision-language models, enabling classification of posts into categories like urgent help, relief information, misinformation, and irrelevant content.
 
@@ -148,13 +150,13 @@ class AdvancedBLIPXLM(nn.Module):
 ## Visualizations
 
 ### Confusion Matrix
-![Confusion Matrix](docs/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](docs/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### Precision-Recall Curve
-![Precision-Recall Curve](docs/precision_recall_curve.png)
+![Precision-Recall Curve](precision_recall_curve.png)
 
 ## License
 
