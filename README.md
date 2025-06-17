@@ -151,7 +151,7 @@ class AdvancedBLIPXLM(nn.Module):
 ## Visualizations  
 
 ### Confusion Matrix  
-![Confusion Matrix](docs/confusion_matrix.png)  
+[![Confusion Matrix]](docs/confusion_matrix.png)  
 
 ### ROC Curve  
 ![ROC Curve](docs/roc_curve.png)  
